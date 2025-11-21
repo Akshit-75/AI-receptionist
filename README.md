@@ -75,4 +75,3 @@ This project is an AI-driven healthcare receptionist system built using asyncio 
 - Asychronous Programming: https://youtube.com/playlist?list=PLhTjy8cBISEpfMihZ8E5yynf5sqPCcBXD&si=s6aEu6OAlkyZjOPr  --> buildwithpython playlist youtube series
 - ChromaDB: https://realpython.com/chromadb-vector-database/#get-started-with-chromadb-an-open-source-vector-database
 - Daniel Bourke RAG: 
-# AI-receptionist
